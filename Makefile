@@ -24,7 +24,7 @@ define Package/ili9341
   CATEGORY:=Languages
   TITLE:=ili9341
   URL:=http://github.com/polkabana/bsb_ili9341
-  DEPENDS:=+python-mini
+  DEPENDS:=+python-light
 endef
 
 define Package/ili9341/description
